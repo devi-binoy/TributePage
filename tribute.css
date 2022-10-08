@@ -1,0 +1,56 @@
+body
+{
+  text-align:center;
+  background-color: black;
+  color:#DCDCDC;
+  font-family: 'Darker Grotesque';
+}
+
+a { color: #fe921f; text-decoration: underline; }
+
+
+
+h1
+{ 
+  font-size: 54px;
+  margin-bottom:20px;
+  font-weight: 300;
+  text-align:centre;
+  color:#F8F8F8;
+}
+
+p
+{
+   font-size:30px; 
+   text-align:center;
+   color: #F8F8F8;
+  
+}
+
+h2
+{
+  font-size:35px;
+  font-family: 'Darker Grotesque';
+  margin: 5% auto 3% auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 5% auto 1% auto;
+}
+
+ul {
+   max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align:left;
+  line-height: 1.5;
+  font-family: 'Darker Grotesque';
+  font-size:20px;
+  font-weight:200;
+}
+
+li {
+  margin: 15px 0;
+}
